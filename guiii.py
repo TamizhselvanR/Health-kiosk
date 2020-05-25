@@ -254,31 +254,17 @@ def faq_bot():
         msg = EntryBox.get("1.0", 'end-1c').strip()
         EntryBox.delete("0.0", END)
 
-        messages = ['Hello','fever, tiredness and dry cough','fever and sweating']
-
         if msg != '':
             ChatLog.config(state=NORMAL)
-
-            if(msg == 'one'):
-                msg = 'Hii'
-                res = 'Hello'
-
-            if (msg == 'two'):
-                msg = 'What are the symptopms of corona?'
-                res = messages[1]
-
-            if (msg == 'three'):
-                msg = 'What are the symptoms of Malaria?'
-                res = messages[2]
 
             ChatLog.insert(END, "You: " + msg + '\n\n')
             ChatLog.config(foreground="#442265", font=("Verdana", 12))
 
-            print("You: " + msg + '\n\n')
+            print("You: " + msg + '\n')
 
             res = str(bot.get_response(msg))
 
-            print("Bot: " + res + '\n\n')
+            print("Bot: " + res + '\n')
 
             ChatLog.insert(END, "Bot: " + res + '\n\n')
             ChatLog.config(state=DISABLED)
