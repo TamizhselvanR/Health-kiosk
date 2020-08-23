@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "health-kiosk-278112",
+  "private_key_id": "5c0454588cf9aa493ac5fccdb4ac8c1d4eac3018",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDIEcNdWFW27qV+\nIo8xzHWZYDeiKvNlNM1tkAcil2fEiYUhNsffzHWlCIEX9BlLOLAASLV2FNtLJef/\nYx6ukYizvsY3v934aXUEWDEHiQGwfWAfo1AtYpqYJNglNvg02UpkeIgL0/kY1ozr\nJqg2FqL3gEgA/cHqj/JmsMeNovdvoZXkPd00+oO6981egyjIRxi+O2zfFIxisAUb\nT13zIeUW8FhSiE187skd26RNQ3qKd518b2xu0qzfWJ7by+SpbFZeixjKVjvvfjV8\nwIjF/UglhEla2bWfFChKkswynXKXb+61VcYTERT6Almmg03W9RyTsCGEyWdg8S64\nOVtz3ifpAgMBAAECgf8xsOJqYhuSk94Gtg6wD617AAAmsa7s3sXRsIlqeLBiisVw\numpqQMiiH2VGIxp6fwSNDYIEZ1RlaxoevupKnAWX9IocI/YS/Mj+NelM4Hp1m1jZ\n2CDRz5ZrXhCmgutNilUvycAAhWVuWzDPjDUQj2QVP4dNYmQHc46BHZHIBpyY3NiR\ntXmi8UamUu6S+6ThvX4OPey/1qE/7bqqSFbYdzeeUe6EhDH8SyRHQizXdKAfGz2c\nWGl4TE1DZOsKICfT2o4DlBVQ/BMpWD6OAS6gILhEFHkhFvfEhWqUTmZaATZOgRju\nyXK7LLx0CCcq9C6qRHdGOse5a40EUDRwX62NwYECgYEA80Zvx3hRUKGcRK5t+ze4\ntbOHNtorYATD48ZQDEL+PtAdmV8so0UhhvUZOawVRiOpnrthUg/y0jlXyrOdqaRL\nmL5zq+8ai3FXz42rTz6VbpXjlj3VH4z2BIYH49r9SV01EUx+qKKIibJx2/90NIsL\nhpLUOKe30X3C+8h/NrDynikCgYEA0ojIM+KSENcxmd+7uQNvBOmNCMJs2M2/7Ujf\nF3aLaDPiUDZVxmTObHsHDJ34UZ3nCvcQBk/v3xlNmmEK4vercqqgmI/Nvf76J0L3\naqljGr5mXQyo7zi/HlSXEftoNWT500MOnoqLXCCSaWOGechBopW2cpyDj25L1qjz\nt6y088ECgYAypZtn37iuHLc35UioYHVn/rRLyyf0mYlexk6r/taHpTREVfgpFZ9h\nRW23AAh9zbbmgQRF3WQkOCP642ITi0zhw+S5CtJv7WzmnQvpN5JMr4/uG3lfVC1z\ny6Og4FqTB4Cg1VgZK51ZbXke4BQFTF1d6vubv+8ZAiGx4Y/6huQ74QKBgFABjNsy\nycE+lencvRDk/iaGvoLKp+SH49y/aZAYC4gw11sWGuiG3G8bHaWsznXtpKRlGSDc\n9dH5YqU9JY71AaFUuCzh0RTXtaZ/61gMQM4j9vB7ZCNslCxphvNdb8+CrPGctQyI\np8b91cXY/XyAHnkznZ7WXaR/DLDpiZyONEHBAoGBALI4tjMEiumB3/K/SybwNKjo\nd7UElUfFGriImA1HoVFxKP+LOkat4YIj22xnC62/OyckwKeD8f71z3HJVjkA8n7c\nhpH/bCF+nFEohGRBrCr10tgK3Bhsg6eZZOCxGYHC9FJvufMD8M+R3vLqUR+niu5X\nbwj+/PsaDfjV4NxAdkem\n-----END PRIVATE KEY-----\n",
+  "client_email": "tamizh@health-kiosk-278112.iam.gserviceaccount.com",
+  "client_id": "108191977993632278053",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tamizh%40health-kiosk-278112.iam.gserviceaccount.com"
+}
